@@ -1,0 +1,86 @@
+.button_container__1Npho.button_container_left_align__3jBQA {     height: fit-content !important; }
+
+Div [style="position:relative;display:flex;justify-content:center;align-self:center;width:400px;max-width:100%;flex-direction:column;height:96px"] {     align-self: start !important; }
+
+
+/* Smaller gallery grid */
+.notion-gallery-grid.notion-gallery-grid-size-medium {
+    grid-auto-rows: 0fr !important;
+}
+
+/* Hide database header */
+.notion-collection-header {
+    display: none !important;
+}
+
+/* Card font size */
+/* Title */.notion-gallery-grid .notion-page-title-text {
+    font-size: 19px !important;
+}
+/* Property text */.notion-gallery-grid .notion-property-text {
+    font-size: 13px !important;
+}
+
+/* card property padding */.notion-collection-card-property {
+    padding: 2px 0px !important;
+}
+
+
+
+/* Hide page name */
+Div [style="position:relative;display:flex;justify-content:center;align-self:center;width:400px;max-width:100%;flex-direction:column;height:96px"] {     align-self: start !important; }
+
+.WidgetHoverMenu_darkModeSwitch__RqbKT {
+    display: none !important;
+}
+
+div [class="notion notion-app light-mode notion-block-0074c5651737421caa583649381e75d6"] > div.notion-frame > div > main > h1 {
+    display: none !important;
+}
+
+/*--------------*/
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+body,
+html {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  --notion-font: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', 'Noto Sans', sans-serif;
+  font-family: var(--notion-font);
+  overflow-x: hidden;
+}
+
+.static-tweet blockquote {
+  margin: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+}
+
+.static-tweet-emoji {
+  height: 1.2em !important;
+  width: 1.2em !important;
+}
+
+.searchInput {
+  color: var(--fg-color);
+  caret-color: var(--fg-color);
+}
