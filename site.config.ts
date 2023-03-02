@@ -17,12 +17,13 @@ export default siteConfig({
   description: 'Giúp bạn học thành thạo tiếng Anh với mức chi phí từ 0đ tới dưới 1,000đ / ngày. Lười cũng sẽ học được',
 
   // social usernames (optional)
-  twitter: 'anhvillas',
+  // twitter: 'anhvillas',//
   // github: 'transitive-bullshit',//
   // linkedin: 'fisch2',//
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  facebook: 'tienganhluoiofficial', 
+  youtube: '@tienganhluoi', 
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
