@@ -22,7 +22,6 @@ export default siteConfig({
   // linkedin: 'fisch2',//
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  facebook: 'tienganhluoiofficial', 
   youtube: '@tienganhluoi', 
 
   // default notion icon and cover images for site-wide consistency (optional)
