@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Tieng Anh Luoi',
+  name: 'Tiếng Anh Lười',
   domain: 'tienganhluoi.com',
   author: 'Dung Nguyen Anh',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Giúp bạn học thành thạo tiếng Anh với mức chi phí từ 0đ tới dưới 1,000đ / ngày. Lười cũng sẽ học được',
 
   // social usernames (optional)
   twitter: 'anhvillas',
@@ -55,15 +55,15 @@ export default siteConfig({
   navigationLinks: [
      {
        title: 'Blog',
-       pageId: '6f2bd47d1f9f4daaa802ef75105f17d4'
+       pageId: '335f8f3f53d441bba2fa13f0e2e0563a'
      },
      {
-       title: 'About',
-       pageId: '11c2722f85b046f3a48969d489368123'
+       title: 'Giới thiệu',
+       pageId: '576d253a332a44c5a72d122c997c64aa'
      },
      {
-       title: 'Contact',
-       pageId: '5df030175b0243eb805f1d3ada5bb60f'
+       title: 'Liên hệ',
+       pageId: '5602a693fedd4a9f9c08110a50f1d33a'
      }
    ]
 })
