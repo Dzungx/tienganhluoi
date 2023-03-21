@@ -38,6 +38,39 @@ div [class="notion notion-app light-mode notion-block-0074c5651737421caa58364938
     display: none !important;
 }
 
+
+
+
+
+/* HIGHLIGHT UNDERLINED TEXTS */
+.notion-inline-underscore {
+    text-decoration-color: #efe50000 !important;
+    background: linear-gradient(180deg,rgba(255,255,255,0) 55%, #fbe200b3 45%) !important;
+} 
+
+
+/* HIDE LINK ICON */
+a.notion-hash-link {
+    display: none !important;
+}
+
+/* HIDE GITHUB CORNER */
+a.styles_githubCorner__7QjNo {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*--------------*/
 
 
